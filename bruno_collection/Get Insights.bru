@@ -1,0 +1,18 @@
+meta {
+  name: Get Insights
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://127.0.0.1:8000/insights
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "ticker": "AAPL",
+    "filing_type": "10-K"
+  }
+}

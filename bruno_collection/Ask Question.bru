@@ -1,0 +1,19 @@
+meta {
+  name: Ask Question
+  type: http
+  seq: 4
+}
+
+post {
+  url: http://127.0.0.1:8000/ask
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "question": "Who is the CEO of Apple?",
+    "tickers": ["AAPL"],
+    "conversation_id": ""
+  }
+}
