@@ -4,6 +4,9 @@ An advanced, full-stack AI platform designed to automate the ingestion, analysis
 
 Built for financial analysts and investors, INsightss drastically reduces the time required to read hundreds of pages of SEC boilerplate by parsing out dense financial data and delivering instant, accurate, and citable insights.
 
+<img width="2940" height="1378" alt="image" src="https://github.com/user-attachments/assets/acb832be-61aa-4a69-b1b0-d11bf4cfde8c" />
+
+
 ## ✨ Key Features
 
 - **Automated SEC EDGAR Ingestion**: Instantly fetch, clean, and chunk massive 10-K and 10-Q HTML filings in seconds using `edgartools`.
