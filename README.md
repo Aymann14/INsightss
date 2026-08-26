@@ -3,8 +3,10 @@
 An advanced, full-stack AI platform designed to automate the ingestion, analysis, and extraction of actionable insights from complex SEC financial filings (10-K, 10-Q) using cutting-edge Retrieval-Augmented Generation (RAG) and Large Language Models.
 
 Built for financial analysts and investors, INsightss drastically reduces the time required to read hundreds of pages of SEC boilerplate by parsing out dense financial data and delivering instant, accurate, and citable insights.
+<img width="2400" height="1320" alt="image" src="https://github.com/user-attachments/assets/30492db4-5fd5-4de1-96e3-d80d6c00732d" />
 
 <img width="2940" height="1378" alt="image" src="https://github.com/user-attachments/assets/acb832be-61aa-4a69-b1b0-d11bf4cfde8c" />
+<img width="1826" height="1526" alt="image" src="https://github.com/user-attachments/assets/9dcbfdb7-c48c-44a3-aba7-3d262b3ee5a4" />
 
 
 ## ✨ Key Features
