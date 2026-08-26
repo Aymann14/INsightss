@@ -1,4 +1,4 @@
-# INsightss 🚀
+# INsightss 
 
 An advanced, full-stack AI platform designed to automate the ingestion, analysis, and extraction of actionable insights from complex SEC financial filings (10-K, 10-Q) using cutting-edge Retrieval-Augmented Generation (RAG) and Large Language Models.
 
@@ -12,7 +12,7 @@ Built for financial analysts and investors, INsightss drastically reduces the ti
 - **AI-Powered Executive Summaries**: Automatically generates comprehensive summaries of Key Financial Highlights, Risk Factors, and Executive Compensation using DeepSeek models.
 - **Conversational Financial Analyst**: Chat directly with the filing. Ask specific questions (e.g., "What was the total related-party revenue?") and receive highly accurate answers with direct source citations.
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 **Frontend:**
 - React (Vite)
